@@ -13,7 +13,7 @@ This project was created as part of my Business Intelligence certification journ
 
 ## Tools Used
 
-- **Microsoft Excel**
+- **Microsoft Excel** 
   
 ---
 
@@ -47,12 +47,12 @@ Before building the dashboards, I prepared the data by:
 ---
 ## Key Findings
 
-**CASE**: An User wants to work in the business service sector. He navigates the dashboard using the slicer and button to filter results, focusing on business services. 
+**CASE**: A User wants to work in the business service sector. They can navigates the dashboard using the slicer and button to filter results, focusing on a specific sector. 
 
-Using the dashboard, he can
+Through the dashboard, they can
 - Instantly view top-paying states for that sector
-- Identify which states have the most job opportunities
-- Drill down to compare multiple sectors or locations
+- Identify  states that have the most job opportunities
+- compare multiple sectors or locations for better decision making.
 
 ![Dashboard2](Business1)
 
