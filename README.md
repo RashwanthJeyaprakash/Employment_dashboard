@@ -20,6 +20,6 @@ This project was created as part of my Business Intelligence certification journ
 
 Screenshot of Cleaned and structured dataset
 
-![Raw Data](Screenshot_2025-05-08_201958.png)
+![Raw Data](Raw_Data.png)
 
 NOTE: dataset is sourced from MavenAnalytics
