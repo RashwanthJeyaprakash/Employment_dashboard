@@ -20,7 +20,7 @@ This project was created as part of my Business Intelligence certification journ
 ## Dashboard Overview Snapshot
 
 
-![Dashboard1](Dashboard1)
+![Dashboard1](images/Dashboard1)
 
 ---
 
@@ -28,7 +28,7 @@ This project was created as part of my Business Intelligence certification journ
 
 Screenshot of Cleaned and structured dataset
 
-![Raw Data](Raw_Data)
+![Raw Data](images/Raw_Data)
 
 NOTE: dataset is sourced from MavenAnalytics
 
@@ -42,7 +42,7 @@ Before building the dashboards, I prepared the data by:
 - created charts and other visuals 
 - Adding helper columns for slicing/filtering
 
-📸 ![Data Prep](Prep)
+📸 ![Data Prep](images/Prep)
 
 ---
 ## Key Findings
@@ -54,10 +54,10 @@ Through the dashboard, they can
 - Identify  states that have the most job opportunities
 - compare multiple sectors or locations for better decision making.
 
-![Dashboard2](Business1)
+![Dashboard2](images/Business1)
 
 
-![Dashboard3](Business2)
+![Dashboard3](images/Business2)
 
 
 ---
